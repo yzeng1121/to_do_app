@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[Demo]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Demo]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://youtube.com/shorts/qf3YrRCXhNw?feature=share)) .
 
 ## Notes
 
